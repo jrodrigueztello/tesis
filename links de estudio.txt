@@ -1,2 +1,14 @@
 LINKS DE ESTUDIO
 ===============================
+esquema 
+https://sci2s.ugr.es/sites/default/files/files/Teaching/GraduatesCourses/InteligenciaDeNegocio/Curso18-19/Tema01-Introduccion%20a%20la%20Inteligencia%20de%20negocio%202018-19.pdf
+
+
+TAREAS
+==========
+1. Estudiar manejo de archivos, estudiar estructura repositorios icfes, estudiar los diccionarios de datos, saber informacion relevante del repositorio, estudiar como subir los datos en R(planos, www, bases de datos), estudiar la manera de integrar R y java  
+2.
+3.
+4.
+5.
+6.
